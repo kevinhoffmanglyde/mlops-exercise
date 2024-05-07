@@ -1,0 +1,51 @@
+Date,Amount,Location,Store,Fraudulent
+1983-10-12,580.97,Rosehaven,Donaldson-Young,False
+2005-10-29,696.8,Sylviaside,Jones-Berg,False
+2018-05-31,603.33,Cherylfurt,"Garcia, Miller and Hamilton",False
+1988-04-23,579.74,Port Patricia,Poole Inc,False
+1970-03-15,409.28,Cookemouth,Huber-Frost,False
+1978-06-22,553.96,Finleychester,Martin-Frey,False
+1986-07-17,538.38,New Joseph,Stuart PLC,False
+2005-07-15,581.88,Arroyoport,Howard Group,True
+1992-11-10,740.0,West Jamie,Long Inc,True
+2012-01-06,339.19,Hayesmouth,Hill-Nunez,True
+2008-07-01,19.12,Lake Christine,Lee-Williams,True
+1985-06-03,617.0,Woodwardborough,Gutierrez-Allen,True
+1999-01-09,10.38,Jamesmouth,"Gonzalez, Thomas and Davila",False
+1971-10-18,891.72,Rosalesside,"Mueller, Ford and Sanchez",False
+2015-06-28,805.74,Port Donaldburgh,Brooks-Johnson,False
+1980-12-30,921.53,Justinburgh,Reeves and Sons,True
+2008-12-03,75.12,Emilyville,Torres LLC,False
+1984-06-13,732.84,Jessicafort,Shaffer-Lewis,False
+1973-03-18,651.84,Port Mariefort,"Snyder, Vaughn and Guzman",False
+1992-11-02,853.48,Ramirezstad,"Rivera, Anderson and White",False
+2003-02-21,914.83,Lake Sabrina,Cohen LLC,False
+1970-12-30,759.37,West Bradleyshire,Anderson Ltd,False
+1983-02-04,709.07,West Charlesfort,Newman LLC,False
+1992-04-10,322.22,Vanessastad,Sanders Ltd,False
+2009-04-02,622.0,Jenningsburgh,"Rice, Martin and Soto",True
+1996-07-13,731.01,West Cherylhaven,Dominguez Inc,True
+2006-04-02,124.71,Buckshire,Diaz-Bowers,True
+1989-12-24,475.45,Carlaport,Beard LLC,True
+2015-09-21,490.31,Rodgerschester,"Bennett, Gutierrez and Davis",True
+1982-04-30,827.23,Maryside,"Rogers, Adams and Cooper",True
+1984-05-17,843.25,Brooksburgh,"Smith, Kennedy and Carter",True
+2010-07-27,854.37,Kimside,Leach-Barnes,False
+2019-10-13,124.98,Lake Douglas,Jones-Hart,False
+1983-04-17,348.9,Port Jean,"Daniels, York and Russo",True
+1996-06-07,55.47,Fowlerport,Fisher Group,False
+1971-02-08,928.23,Casechester,Wright Inc,True
+1995-09-24,923.95,Anthonyville,Arellano Group,True
+1970-02-22,655.92,Lake Lucasstad,Rodgers-Hull,True
+1980-12-27,840.65,Lake Stephaniemouth,"Armstrong, Molina and Arellano",True
+2008-03-16,176.22,North Sharon,Rogers Ltd,True
+1974-01-02,214.51,South Larry,Thomas-Hall,True
+1998-04-13,358.99,Hammondside,Sweeney-Jackson,False
+2020-07-18,423.73,South Sarachester,Houston-Wilson,False
+1992-10-05,58.08,North Maureen,Williams Group,False
+1976-06-11,189.24,Hallview,"Frank, Smith and Hamilton",True
+1994-06-21,84.78,Baldwinborough,"Rowe, Blake and Thomas",False
+2007-04-20,40.77,Taylorfurt,"Ramirez, Leonard and Ross",True
+2013-01-05,507.23,Melindaburgh,"Garcia, Jones and Lowery",False
+1991-10-10,495.02,North Donaldhaven,Brown-Wilson,True
+2015-12-17,387.07,West Joseph,Young Ltd,False
